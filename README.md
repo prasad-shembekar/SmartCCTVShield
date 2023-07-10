@@ -9,7 +9,7 @@ With the Team of 4, we performed the team co-ordinator role where we developed t
 
 Use git [Clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) to make use in local repository.
 
-Open project in Eclipse and run the project 
+Open project in PyCharm and run the project 
 
 ## Project Requirements 
 
